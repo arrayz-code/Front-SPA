@@ -17,12 +17,12 @@ Este proyecto es el frontend de una SPA que permite reservar sesiones en un spa 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
-2. Navega hasta el directorio del proyecto: `cd vite-project`.
+2. Navega hasta el directorio del proyecto: `cd client`.
 3. Instala las dependencias del proyecto: `npm install`. Para el repositorio del Back igualmente 
 
 ## Uso
 
-1. Inicia la aplicación: `npm run dev`.
+1. Inicia la aplicación: `npm run start`.
 2. Abre tu navegador web y visita `http://localhost:5173/`, y cuando el en el terminal del repositorio de la BD digas: "BD CONECTADA".
 
 ## Contribución
